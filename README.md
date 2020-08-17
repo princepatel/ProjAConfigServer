@@ -1,2 +1,2 @@
 # ProjAConfigServer
-Config server with local property files
+Config server with local git repo and property files
